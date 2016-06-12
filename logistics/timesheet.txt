@@ -1,0 +1,17 @@
+# Maulik Doshi + Section F + maulikd
+
+Date		Hours		Description
+11/15/14	2.5		Learning Modules
+11/16/14	5.5		More Learning and Experimentation
+11/17/14	5.0		Creating a Basic Template for my game
+11/18/14	4.0		Adding a few Other Features and Cleaning the Code
+11/21/14	6.0		Creating a Rectangle class, allowing ball to move around cube
+11/22/14	2.5		Collision Detection out of bounds detection for all frames, add music, restarting capability
+11/23/14	0.5		Simple Menu Display
+11/24/14	1.0		Added press play button, horizontally moving obstacles
+11/29/14	5.0		Obstacles move with ball, random obstacles, rotating obstacles, scores
+11/30/14	7.0		Cleaned up menu, created new menus, added score system, added high score management
+12/01/14	3.5		Added settings, added collision/out-of-bounds displays, added game pause and music functionality
+12/02/14	3.0		Fixing bugs (clicking freezes game sometimes - fixed!), less confusing gameplay, modified labels
+12/03/14	2.0		Trying to use recursion to solve the first face (AI)
+12/04/14	1.5		Polishing the code
